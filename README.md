@@ -7,3 +7,4 @@ Avoid blocks, collect coins
 ### next changes:
  - end game when 'game over' screen is active
  - sound effects
+ - change life and score counters' anchors to 'stretch'
