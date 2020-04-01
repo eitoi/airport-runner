@@ -1,10 +1,10 @@
-# airport runner
+# Airport Runner
 Play at [eitoi.github.io/airport-runner/index.html](https://eitoi.github.io/airport-runner/index.html)
 
  - Arrows or A and D to move
  - Avoid blocks, collect coins
 
-### next changes:
- - end game when 'game over' screen is active
- - sound effects
- - change life and score counters' anchors to 'stretch'
+### Next changes:
+ - End game when 'game over' screen is active
+ - Sound effects
+ - Change life and score counters' anchors to 'stretch'
