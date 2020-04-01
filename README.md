@@ -1,5 +1,5 @@
 # airport-runner
-Play at [eitoi.github.io/airport-runner/index.html](eitoi.github.io/airport-runner/index.html)
+Play at [eitoi.github.io/airport-runner/index.html](https://eitoi.github.io/airport-runner/index.html)
 
 Arrows or A and D to move
 Avoid blocks, collect coins
