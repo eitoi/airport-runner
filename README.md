@@ -1,4 +1,4 @@
-# airport-runner
+# airport runner
 Play at [eitoi.github.io/airport-runner/index.html](https://eitoi.github.io/airport-runner/index.html)
 
 Arrows or A and D to move
